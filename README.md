@@ -20,5 +20,5 @@ I’m interested in learning new technologies and improving my dev skills.
   
    ##
 
-[![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusAlbiero&theme=radical)](https://github.com/MateusAlbiero/github-readme-stats)
+[![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusAlbiero&theme=radical)](https://github.com/MateusAlbiero/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAlbiero&layout=compact&theme=radical)](https://github.com/MateusAlbiero/github-readme-stats)
