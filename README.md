@@ -21,6 +21,6 @@ I’m interested in learning new technologies and improving my dev skills.
   
 <div>
   <a href="https://github.com/MateusAlbiero">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MateusAlbiero&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAlbiero&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MateusAlbiero&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAlbiero&layout=compact&langs_count=7&theme=radical"/>
 </div>
