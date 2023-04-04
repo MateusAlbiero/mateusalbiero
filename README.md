@@ -3,7 +3,7 @@ Hello world, I'm Mateus. Welcome to my profile! 👋🏼
 Interested in learning new technologies and improving my development skills.
 ##
 <div style="display: inline_block">
-  <h4>Linguagens e ferramentas</h4>
+  <h4>Languages ​​and tools</h4>
   
   ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
