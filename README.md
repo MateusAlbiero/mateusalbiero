@@ -13,6 +13,7 @@ Interested in learning new technologies and improving my development skills.
   ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
   
   <h4>You can reach me on</h4>
   
