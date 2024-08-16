@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>Olá, mundo! Eu sou Mateus Albiero 👋🏼</h3>
-  <p>Sou apaixonado por tecnologia e estou sempre em busca de novas formas de aprimorar minhas habilidades em desenvolvimento.</p>
+  <h3>Olá mundo, sou Mateus! 👋🏼</h3>
+  <i>Entusiasta de tecnologia, sempre em busca de novas formas de aperfeiçoar minhas habilidades de desenvolvimento.</i>
 </div>
 
 ##
