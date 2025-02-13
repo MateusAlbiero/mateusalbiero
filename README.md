@@ -28,7 +28,8 @@
 
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=FFFFFF)
-  
+  ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
   <h4>Entre em contato</h4>
   
   <a href="https://api.whatsapp.com/send?phone=5549988046105" target="_blank" rel="nofollow">
@@ -43,12 +44,4 @@
   <a href="mailto:dev.mateusalbiero@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>  
-
-##
-
-<div align="center">
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=MateusAlbiero&theme=highcontrast)
-
 </div>
